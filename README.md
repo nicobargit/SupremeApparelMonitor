@@ -4,4 +4,4 @@ To install requirements:
 ```
 pip install -r requirements.txt
 ```
-Launch monitor.py
+Launch supreme_monitor.py -h for details
